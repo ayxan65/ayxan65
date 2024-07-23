@@ -1,5 +1,5 @@
 ## Hi, I'm Aykhan
-<center>Front End Developer</center>
+<p align="center">Front End Developer</p>
    
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about JavaScript, React etc
