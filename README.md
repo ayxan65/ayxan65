@@ -1,8 +1,8 @@
 <p align="center"> <strong>Hi, I'm Aykhan</strong></p>
-<p align="center"><strong>Front End Developer</strong></p>
+<p align="center"><strong><h3>Front End Developer</h3></strong></p>
    
 - 🌱 I’m currently learning Next.js
-- 💬 Ask me about JavaScript, React etc
+- 💬 Ask me about JavaScript, React etc.
 - 📫 How to reach me: memmedliayxan0@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayxan65&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
