@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Aykhan</h1>
-<h2 align="center">Front End Developer</h2>
+<h3 align="center">Front End Developer</h3>
    
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about JavaScript, React etc.
