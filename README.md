@@ -1,4 +1,4 @@
-<center>## Hi, I'm Aykhan</center>
+## Hi, I'm Aykhan
 <center>Front End Developer</center>
    
 - 🌱 I’m currently learning Next.js
