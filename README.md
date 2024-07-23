@@ -1,6 +1,7 @@
-## Hi, I'm Aykhan
- Front End Developer
- - 🌱 I’m currently learning Next.js
+   ## Hi, I'm Aykhan
+   Front End Developer
+   
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about JavaScript, React etc
 - 📫 How to reach me: memmedliayxan0@gmail.com
 
