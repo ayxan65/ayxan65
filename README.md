@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayxan65&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayxan65&show_icons=true&theme=radical)
 
 <!--
 **ayxan65/ay[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayxan65)](https://github.com/anuraghazra/github-readme-stats)xan65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
